@@ -1,1 +1,1 @@
-worker: ytdp
+worker: python main.py
